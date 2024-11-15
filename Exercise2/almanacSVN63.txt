@@ -1,0 +1,21 @@
+
+
+
+
+
+Almanac of satellite SVN 63, PRN 01 (Block IIR) for 2016, 11, 28
+dt0: -7.661711424589D-05
+dt1: -3.183231456205D-12
+dt2:  0.000000000000D+00
+sqrt(a): 5.153650835037D+03 (sqrt of meters)
+e: 3.841053112410D-03 
+M0: 1.295004883409D+00 (radians)
+Omega0: -2.241692424630D-01 (radians)
+Omegadot: -8.386063598924D-09 (radians/sec)
+i0: 9.634782624741D-01 (radians)
+idot: -7.286017777600D-11  (radians/sec)
+w0: 9.419793734505D-01 (radians)
+wdot: 0.0  (radians/sec)
+
+GMe = 3.986005D+14; (m3/s2)
+OmegaEdot = 7.2921151467D-05 (radians)
