@@ -1,0 +1,1 @@
+mil2246a00.24f | Error : Not a valid RINEX observation file. mil2246a00.24g | Error : Not a valid RINEX observation file. mil2246a00.24l | Error : Not a valid RINEX observation file. mil2246a00.24n | Error : Not a valid RINEX observation file.
