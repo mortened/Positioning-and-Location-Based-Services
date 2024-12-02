@@ -39,7 +39,6 @@ x_kalman, y_kalman = [], []
 for i in range(1, len(x)):
     #State prediction
     Xi = T @ xi
-    print(Xi)
 
     #Update prediction
     K = C_model + T @ C_error @ T.T
